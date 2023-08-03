@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79483&extension=m3u8
-http://195.26.87.217/live?channelId=270&deviceMac=00:1A:79:33:E9:41
+http://shareex@195.26.87.217/live?channelId=270&deviceMac=00:1A:79:33:E9:41
 
