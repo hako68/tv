@@ -1,0 +1,49 @@
+彩虹e台,mitv://generationnexxxt.com:19806/2061b87b342c4060879467426ec343f6
+彩虹电影台,mitv://generationnexxxt.com:19806/80f6c5a52dc14d82bd6751bae9a7bd2d
+LOOK TV,mitv://generationnexxxt.com:19806/92bcfe5249e74ea5952e0789ad1ca434
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/95508bd377be4e57b98e82771b1def03
+惊艳成人电影台,mitv://generationnexxxt.com:19806/87c67ddb3fe542209fad31646df0ab1e
+松视1台,mitv://generationnexxxt.com:19806/f4f8edef1bc84e3f96f0ef2f1aca7462
+松视2台,mitv://generationnexxxt.com:19806/214a310f878442028c2bea560e9518c6
+松视3台,mitv://generationnexxxt.com:19806/4f855e073cb74c4ba33494f3c5feab03
+香蕉台,mitv://generationnexxxt.com:19806/2755dbf54022456bb1def228cda54ba1
+JStar极限台,mitv://generationnexxxt.com:19806/dcf99b2bda44417a96ec205123929881
+HAPPY,mitv://generationnexxxt.com:19806/3d1df484dbe649a3b509dbe60dca4bfa
+K,mitv://generationnexxxt.com:19806/5e51b7ff2fa34cb6a667e3d3c217da88
+PLAYBOY,mitv://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
+奥視HD,http://125.227.210.55:62697/VideoInput/play.ts
+IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+PLAY BOY,http://23.237.100.82:8000/PLAYBOY/index.m3u8
+PORNBOX 1,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+PORNBOX 2,http://23.237.100.82:8000/BRAZZERS/index.m3u8
+PORNBOX 3,http://23.237.100.82:8000/HUSTLER/index.m3u8
+
+xSonsee 1 松視1,http://58.99.33.2:1935/liveedge2/jZPELJzi_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+xSonsee 2 松視2,http://58.99.33.2:1935/liveedge2/jZPELJzi_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+xSonsee 3 松視3,http://58.99.33.2:1935/liveedge2/jZPELJzi_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+xRainbow 彩虹頻道,http://58.99.33.2:1935/liveedge2/jZPELJzi_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+x樂活,http://58.99.33.2:1935/liveedge2/jZPELJzi_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+xPandora Perfect 潘朵拉玩美,http://58.99.33.2:1935/liveedge2/jZPELJzi_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+xPandora Pink 潘朵拉粉红,http://58.99.33.2:1935/liveedge2/jZPELJzi_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+xAmazing TV 驚豔台,http://58.99.33.2:1935/liveedge2/jZPELJzi_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+xBananaHD 香蕉台,http://58.99.33.2:1935/liveedge2/jZPELJzi_414_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+
+
+彩虹e台,mitv://135.148.104.228:19806/2061b87b342c4060879467426ec343f6
+彩虹电影台,mitv://135.148.104.228:19806/80f6c5a52dc14d82bd6751bae9a7bd2d
+LOOK TV,mitv://135.148.104.228:19806/92bcfe5249e74ea5952e0789ad1ca434
+潘朵啦玩美台,mitv://135.148.104.228:19806/95508bd377be4e57b98e82771b1def03
+惊艳成人电影台,mitv://135.148.104.228:19806/87c67ddb3fe542209fad31646df0ab1e
+松视1台,mitv://135.148.104.228:19806/f4f8edef1bc84e3f96f0ef2f1aca7462
+松视2台,mitv://135.148.104.228:19806/214a310f878442028c2bea560e9518c6
+松视3台,mitv://135.148.104.228:19806/4f855e073cb74c4ba33494f3c5feab03
+香蕉台,mitv://135.148.104.228:19806/2755dbf54022456bb1def228cda54ba1
+JStar极限台,mitv://135.148.104.228:19806/dcf99b2bda44417a96ec205123929881
+HAPPY,mitv://135.148.104.228:19806/3d1df484dbe649a3b509dbe60dca4bfa
+K,mitv://135.148.104.228:19806/5e51b7ff2fa34cb6a667e3d3c217da88
+PLAYBOY,mitv://135.148.104.228:19806/a1bdd4044b1241498c615ee02ab4e868
+
+
+
+
