@@ -1,0 +1,250 @@
+TRANS7,http://103.166.27.2:800/play/a01c
+TRANS7,http://198.16.100.90:8278/Trans7_eko/playlist.m3u8?tid=MABA8459856784598567&ct=19249&tsum=355af3a5c5bdf35204c638fb2076d199
+TRANS7,http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
+TRANS7,https://kusnadipepenk.github.io/campeign/trns7.m3u8
+TRANS TV,http://103.166.27.2:800/play/a01b
+TRANS TV,http://198.16.100.90:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
+TRANS TV,http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
+TRANS TV,https://kusnadipepenk.github.io/campeign/trns.m3u8
+RCTI,http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
+RCTI,http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
+RCTI,http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+RCTI,https://hako68.github.io/tv/rcti.m3u8
+MNCTV,https://ezstat.ru/MNCTV_shareext_ts
+MNCTV,https://hako68.github.io/tv/mncent.m3u8
+MNCTV,http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6.m3u8
+GTV,https://hako68.github.io/tv/gtv.m3u8
+GTV,http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+GTV,http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_2499968=6.m3u8
+CNN INDONESIA,http://103.166.27.2:800/play/a01d
+CNBC INDONESIA,http://103.166.27.2:800/play/a01e
+INEWS,http://198.16.100.90:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
+INEWS,http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7.m3u8
+INEWS,http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+INEWS,https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzYwNDAzCgo=
+INEWS,https://hako68.github.io/tv/inews.m3u8
+USEE PRIME,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+USEE PRIME,https://hako68.github.io/tv/useeprime.m3u8
+SCTV,http://210.210.155.35/session/92c0392e-a75f-11ec-8d27-c81f66f89318/qwr9ew/s/s03/01.m3u8
+SCTV,https://kusnadipepenk.github.io/campeign/sctv.m3u8
+SCTV,http://198.16.100.90:8278/Sctv/playlist.m3u8?tid=MEAE5576803555768035&ct=19249&tsum=22cd08338943a038eb9a5bcf2ff7cba3
+INDOSIAR,http://210.210.155.35/session/a07ac39a-a75f-11ec-8d27-c81f66f89318/qwr9ew/s/s04/01.m3u8
+INDOSIAR,http://103.166.27.2:800/play/a016
+TV ONE,http://210.210.155.35/session/b360b2e4-a75f-11ec-8d27-c81f66f89318/qwr9ew/s/s105/01.m3u8
+TV ONE,http://103.166.27.2:800/play/a01h
+METRO TV,http://210.210.155.35/session/c38d35d4-a75f-11ec-92c6-b82a72d63267/uq2663/h/h12/01.m3u8
+METRO TV,http://198.16.100.90:8278/metrotv_eko/playlist.m3u8?tid=MF8F5976470059764700&ct=19249&tsum=480db4ba88eb5616ddfdd41839efb81b
+METRO TV,https://kusnadipepenk.github.io/campeign/metro.m3u8
+KOMPAS TV,http://210.210.155.35/session/d9f8af2e-a75f-11ec-8d27-c81f66f89318/qwr9ew/s/s104/01.m3u8
+KOMPAS TV,http://103.166.27.2:800/play/a019
+KOMPAS TV,https://kusnadipepenk.github.io/campeign/kompas.m3u8
+NET,http://210.210.155.35/session/f73cf1e4-a75f-11ec-8d27-c81f66f89318/qwr9ew/s/s08/01.m3u8
+NET,https://kusnadipepenk.github.io/campeign/netv.m3u8
+ANTV,http://210.210.155.35/session/e91b3d50-a75f-11ec-8d27-c81f66f89318/qwr9ew/s/s07/01.m3u8
+ANTV,http://103.166.27.2:800/play/a01g
+ANTV,https://kusnadipepenk.github.io/campeign/antv.m3u8
+MOJI,http://210.210.155.35/qwr9ew/s/s41/02.m3u8
+MOJI,http://103.166.27.2:800/play/a017
+MOJI,http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+MOJI,http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
+MOJI,http://210.210.155.37/session/209d78ce-a760-11ec-8d27-c81f66f89318/qwr9ew/s/s41/01.m3u8
+DAAI TV,https://hako68.github.io/tv/daai.m3u8
+DAAI TV,http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
+DAAI TV,http://210.210.155.37/qwr9ew/s/s13/index.m3u8
+VISION PRIME,http://198.16.100.90:8278/VisionPrime/playlist.m3u8?tid=MAFA7925284679252846&ct=19249&tsum=775468fd4a124f17bdd61e9147b32ea9
+MNC ENT,https://hako68.github.io/tv/mncent.m3u8
+MNC NEWS,https://hako68.github.io/tv/mncnews.m3u8
+LAGU TV,http://103.166.27.2:800/play/a01u
+DANGDUT TV,http://103.166.27.2:800/play/a01x
+DENS FOOD CHANNEL,http://210.210.155.35/session/5a08ea6c-a760-11ec-9f65-b82a72d63267/x6bnqe/s/s50/live.m3u8
+DENS SHOWBIZ,http://210.210.155.37/session/81e2bc70-a760-11ec-9f65-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
+BIZNET ADVENTURE,http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+KNOW,http://210.210.155.37/session/9550ce82-a760-11ec-9f65-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+LIFE,http://210.210.155.35/session/a6645748-a760-11ec-9f65-b82a72d63267/x6bnqe/s/s65/S4/mnf.m3u8
+LIFE,https://kusnadipepenk.github.io/campeign/life.m3u8
+ANIPLUS,http://210.210.155.35/session/0b9dc5ac-a763-11ec-ad32-b82a72d63267/dr9445/h/h02/01.m3u8
+ANIPLUS,https://kusnadipepenk.github.io/campeign/anplus.m3u8
+ANIMAX,https://kusnadipepenk.github.io/campeign/amax.m3u8
+M KIDZ,http://210.210.155.35/session/31e6b57a-a763-11ec-8eb9-b82a72d63267/uq2663/h/h191/index.m3u8?app_type=web&amp;userid=k91eavf37va&amp;tkn=SC94IUJOPUUEA7ON21WZ8TXL1YWJN4W2&amp;chname=My_Kidz_HD
+ROCK ENTERTAINMENT,http://210.210.155.35/session/a9b02618-a763-11ec-83ca-b82a72d63267/dr9445/h/h16/01.m3u8
+ROCK ENTERTAINMENT,https://kusnadipepenk.github.io/campeign/bluent.m3u8
+ROCK EXTREME,http://210.210.155.35/session/bd39b29e-a763-11ec-83ca-b82a72d63267/dr9445/h/h15/01.m3u8
+ROCK EXTREME,https://kusnadipepenk.github.io/campeign/bluext.m3u8
+KIX,http://210.210.155.35/session/cd7f2198-a763-11ec-83ca-b82a72d63267/dr9445/h/h07/01.m3u8
+GEM,http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+ONE,http://210.210.155.35/session/fe5c93ae-a763-11ec-87e1-c81f66f89318/uq2663/h/h143/01.m3u8
+ONE,https://kusnadipepenk.github.io/campeign/sone.m3u8
+K+,http://210.210.155.35/session/f149b08e-a763-11ec-87e1-c81f66f89318/uq2663/h/h08/01.m3u8
+TVN,http://210.210.155.35/session/13e59e82-a764-11ec-9e38-b82a72d63267/dr9445/h/h20/02.m3u8
+TVN MOVIES,http://210.210.155.35/session/2526bf28-a764-11ec-9e38-b82a72d63267/dr9445/h/h21/01.m3u8
+TVN MOVIES,https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
+CELESTIAL MOVIES,http://210.210.155.37/session/34933996-a764-11ec-9e38-b82a72d63267/dr9445/h/h14/01.m3u8
+CELESTIAL MOVIES,https://kusnadipepenk.github.io/campeign/celmov.m3u8
+CHINA CLASSIC MOVIES,http://210.210.155.35/session/46c34368-a764-11ec-a06a-c81f66f89318/qwr9ew/s/s31/01.m3u8
+MY CINEMA ASIA,http://210.210.155.35/session/56f71390-a764-11ec-87e1-c81f66f89318/uq2663/h/h193/index.m3u8?app_type=web&amp;userid=k91eavf37va&amp;tkn=SC94IUJOPUUEA7ON21WZ8TXL1YWJN4W2&amp;chname=My_Cinema_Asia
+ZEE BIOSKOP,http://210.210.155.35/session/6a7d85b6-a764-11ec-a06a-c81f66f89318/qwr9ew/s/s32/01.m3u8
+THRILL,http://210.210.155.35/session/7991285a-a764-11ec-a06a-c81f66f89318/qwr9ew/s/s34/01.m3u8
+THRILL,https://kusnadipepenk.github.io/campeign/thril.m3u8
+KIX,https://kusnadipepenk.github.io/campeign/kix.m3u8
+CINEMA WORLD,http://210.210.155.35/session/88c07ef2-a764-11ec-aeac-b82a72d63267/dr9445/h/h04/01.m3u8
+MY CINEMA,http://210.210.155.35/session/9994f942-a764-11ec-87e1-c81f66f89318/uq2663/h/h192/index.m3u8?app_type=web&amp;userid=k91eavf37va&amp;tkn=SC94IUJOPUUEA7ON21WZ8TXL1YWJN4W2&amp;chname=My_Cinema_HD
+MY CINEMA EUROPE,http://210.210.155.35/session/b357d0de-a764-11ec-87e1-c81f66f89318/uq2663/h/h18/01.m3u8
+MY FAMILY CHANNEL,http://210.210.155.35/session/d0e5d934-a764-11ec-87e1-c81f66f89318/uq2663/h/h194/index.m3u8?app_type=web&amp;userid=k91eavf37va&amp;tkn=SC94IUJOPUUEA7ON21WZ8TXL1YWJN4W2&amp;chname=My_Family_Channel
+FLIX CHINA,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+STYLE,http://210.210.155.35/session/e16d7ca8-a764-11ec-9740-b82a72d63267/dr9445/h/h01/01.m3u8
+QWEST,http://210.210.155.35/session/f25278c0-a764-11ec-87e1-c81f66f89318/uq2663/h/h94/01.m3u8?app_type=web&amp;userid=k91eavf37va&amp;tkn=SC94IUJOPUUEA7ON21WZ8TXL1YWJN4W2&amp;chname=Qwest_TV_-_Jazz_n_Beyond
+FIGHT,http://210.210.155.35/session/0a51c0e8-a765-11ec-9740-b82a72d63267/dr9445/h/h05/01.m3u8
+MOTOR VISION,http://210.210.155.35/session/1b032dbe-a765-11ec-87e1-c81f66f89318/uq2663/h/h09/01.m3u8
+CNA,http://210.210.155.37/uq2663/h/h29/index.m3u8
+CNA,https://kusnadipepenk.github.io/campeign/cna.m3u8
+BLOOMBERG,http://210.210.155.37/dr9445/h/h03/index.m3u8
+CCTV 4,http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+PHOENIX INFONEWS,http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+
+National GeoGraphic,https://kusnadipepenk.github.io/ntn/natgeo.m3u8
+National Geo wild,https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
+DISCOVERY Science,https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+DISCOVERY,https://kusnadipepenk.github.io/ntn/disc.m3u8
+DISCOVERY Turbo,https://kusnadipepenk.github.io/ntn/disturbo.m3u8
+History,https://kusnadipepenk.github.io/campeign/histo.m3u8
+AFC,https://kusnadipepenk.github.io/campeign/afc.m3u8
+
+Nickelodeon,https://kusnadipepenk.github.io/campeign/kid.m3u8
+Disney,http://208.86.19.13:81/14.stream/index.m3u8
+Disney JR,https://kusnadipepenk.github.io/ntn/disn.m3u8
+HappyKids Junior,https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+Dreamworks,https://kusnadipepenk.github.io/campeign/drmwk.m3u
+Cartoon Networks,https://kusnadipepenk.github.io/ntn/cn.m3u8
+Boomerangs,https://kusnadipepenk.github.io/ntn/boom.m3u8
+Nick JRs,https://kusnadipepenk.github.io/campeign/nika.m3u8
+Nickelodeon,https://kusnadipepenk.github.io/campeign/nike.m3u8
+
+USEE SPORT 1,https://anon.devds.site/link.php?hash=aHR0cDovL3Bwcm90di5jb206ODAvbGl2ZS9TdWx0YW4xMjMvU3VsdGFuMTIzMTIzLzM5NTU0LnRz
+USEE SPORT 2,https://anon.devds.site/link.php?hash=aHR0cDovL3Bwcm90di5jb206ODAvbGl2ZS9TdWx0YW4xMjMvU3VsdGFuMTIzMTIzLzM5NTU1LnRz
+MNC SPORT 1,https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzYwMzUxCgo=
+MNC SPORT 1,https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8xNTc1ODkK
+MNC SPORT 1,https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvMzcxNjk2LnRz
+MNC SPORT 2,https://anon.devds.site/link.php?
+hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzYwNDYzCgo=
+MNC SPORT 2,https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8yOTg1NDgK
+MNC SPORT 2,https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvMzcxNjk3LnRz
+MNC SPORT 3,https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8xNjUxMDUK
+MNC SPORT 3,https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvMzcxNjk4LnRz
+
+Bein 1,https://anon.devds.site/link.php?hash=aHR0cDovL3Bwcm90di5jb206ODAvbGl2ZS9TdWx0YW4xMjMvU3VsdGFuMTIzMTIzLzM5NTUyLnRz
+Bein 1,https://kusnadipepenk.github.io/ntn/bs1.m3u8
+Bein 2,https://anon.devds.site/link.php?hash=aHR0cDovL3Bwcm90di5jb206ODAvbGl2ZS9TdWx0YW4xMjMvU3VsdGFuMTIzMTIzLzM5NTUzLnRz
+Bein 2,https://kusnadipepenk.github.io/ntn/bs2.m3u8
+Bein 3,https://kusnadipepenk.github.io/ntn/bs3.m3u8
+ASSP 1,https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzE3MjIKCg==
+ASSP 1,https://kusnadipepenk.github.io/ntn/asp1.m3u8
+ASSP 2,https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzE3MjEKCg==
+ASSP 2,https://kusnadipepenk.github.io/ntn/asp2.m3u8
+ASSP 3,https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzE3MjAKCg==
+ASSP 3,https://kusnadipepenk.github.io/ntn/asp3.m3u8
+ASSP 4,https://anon.devds.site/link.php?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzE3MTkKCg==
+ASSP 5,https://anon.devds.site/link.m3u8?hash=aHR0cDovL2traW1jbzAzLm9rbmlydmFuYS5jbHViOjg4ODAvM3VzMDIxMzNuMDEvZGFzY3NhZGF3LzE3MTMKCg==
+ASSP 4,https://kusnadipepenk.github.io/ntn/asp4.m3u8
+Sporttv 1,https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+Sporttv 2,https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+Sporttv 3,https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+Sporttv 4,https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+Eleven 1,https://kusnadipepenk.github.io/ntn/ele1.m3u8
+Eleven 2,https://kusnadipepenk.github.io/ntn/ele2.m3u8
+Eleven 3,https://kusnadipepenk.github.io/ntn/ele3.m3u8
+Sky Sport Football,https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+Sky Sport Arena,https://kusnadipepenk.github.io/ntn/skyare.m3u8
+Dazn 1 Sport,https://kusnadipepenk.github.io/ntn/daz1.m3u8
+Dazn 2 Sport,https://kusnadipepenk.github.io/ntn/daz2.m3u8
+Arena 1 Sport,https://kusnadipepenk.github.io/ntn/arns1.m3u8
+Arena 2 Sport,https://kusnadipepenk.github.io/ntn/arns2.m3u8
+Arena 3 Sport,https://kusnadipepenk.github.io/ntn/arns3.m3u8
+Arena 4 Sport,https://kusnadipepenk.github.io/ntn/arns4.m3u8
+True Football 1,https://kusnadipepenk.github.io/ntn/truf1.m3u8
+True Football 2,https://kusnadipepenk.github.io/ntn/truf2.m3u8
+SuperSport Motor,https://kusnadipepenk.github.io/ntn/vspom.m3u8
+ESPN,https://kusnadipepenk.github.io/ntn/espn.m3u8
+Eleven Sport 1,https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+Eleven Sport 2,https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+Eleven Sport 3,https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+True Football 1,https://kusnadipepenk.github.io/ntn/truf1.m3u8
+True Football 2,https://kusnadipepenk.github.io/ntn/truf2.m3u8
+V-Sport,https://kusnadipepenk.github.io/ntn/vspom.m3u8
+Sky Sport EPL,https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+BT Sport 1,https://hako68.github.io/tv/bt1.m3u8
+BT Sport 1,http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
+BT Sport 2,https://hako68.github.io/tv/bt2.m3u8
+BT Sport 2,http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=ME8E7161918071619180&ct=19254&tsum=5a361ecdfed8be71815bc378f08714c6
+BT Sport 3,https://hako68.github.io/tv/bt3.m3u8
+BT Sport 3,http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MD8D2705762227057622&ct=19254&tsum=5f67e864d74200ddfa93a55f5f897168
+BT Sport 4,https://hako68.github.io/tv/bt4.m3u8
+BT Sport 4,http://198.16.100.90:8278/btespn/playlist.m3u8?tid=MB5B6304580563045805&ct=19254&tsum=80d2ec53bd2391dea02424aad8c648c7
+
+Channel 5,https://hako68.github.io/tv/channel5.m3u8
+Channel 8,https://hako68.github.io/tv/channel8.m3u8
+Channel U,https://hako68.github.io/tv/channelu.m3u8
+HBO,https://kusnadipepenk.github.io/campeign/hbo.m3u8
+HBO Family,https://kusnadipepenk.github.io/campeign/hbofam.m3u8
+HBO Hits,https://kusnadipepenk.github.io/campeign/hbihit.m3u8
+HBO Signs,https://kusnadipepenk.github.io/campeign/hbosi.m3u8
+HITS,http://210.210.155.35/session/8175a902-a763-11ec-83ca-b82a72d63267/dr9445/h/h37/01.m3u8
+HITS,https://kusnadipepenk.github.io/campeign/hit.m3u8
+Cinemax,https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+AXN,https://hako68.github.io/tv/axn.m3u8
+
+K-Drama,https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+K-Movies,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+K-IDS,https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+&ROmance,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+Spirit TV,https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v3a1/mono.m3u8
+Hits Music,https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
+Hot Country,https://xumo-redbox.ott-channels.stingray.com/108/master_768x432_500kbps.m3u8
+Hit Redbox,https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
+POPMUsic,http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist.m3u8
+MTV Live,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Block,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+CMT music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+Music TOp,https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+Afrobeats 24/7,https://stream.ecable.tv/afrobeats/index.m3u8
+Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Kpop2,https://api.mbed.cc/youtube/live.m3u8?id=F4aby5WN1Rw
+
+
+SCREEN MEDIEVAL EUROPE,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1177
+SCREEN WILD ANIMALS,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1178
+SCREEN AQUARIUM,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/93221
+SCREEN FIREPLACE,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1187
+SCREEN FIREPLACE WINTER,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1183
+SCREEN CAMPFIRE,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1181
+SCREEN WINTER WONDERLAND,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1179
+SCREEN WINTER,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1188
+SCREEN WINTER 2,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/93220
+SCREEN TROPICAL RAIN,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1182
+SCREEN DUBAI,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/96167
+SCREEN ISTANBUL,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1185
+SCREEN PARIS,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1186
+SCREEN NORWAY,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1189
+SCREEN NEWYORK,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1184
+SCREEN NEW YORK 2,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1180
+SCREEN NEWYORK NIGHT,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1190
+SCREEN OCEAN,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1191
+SCREEN THE DRIVE,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1192
+
+Beaches Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+Mountains Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+Rivers Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+Tropics Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+Lakes Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+Animals Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+Forests Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+Sunsets Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+Aurora Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+Nature,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+RELAX MUSIC,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1205
+RELAX JAZZ MUSIC,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1209
+RELAX YOGA MUSIC,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1206
+RELAX TO SLEEP,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1207
+RELAX COFFEE SHOP MUSIC,http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/1208
+
