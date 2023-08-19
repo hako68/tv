@@ -211,58 +211,58 @@
 
 
 [RLR1],#genre#
-RLR64,https://ss.rongliren.com/api/video/m3u8?id=64&amp;admin=1
-RLR65,https://ss.rongliren.com/api/video/m3u8?id=65&amp;admin=1
-RLR66,https://ss.rongliren.com/api/video/m3u8?id=66&amp;admin=1
-RLR67,https://ss.rongliren.com/api/video/m3u8?id=67&amp;admin=1
-RLR68,https://ss.rongliren.com/api/video/m3u8?id=68&amp;admin=1
-RLR69,https://ss.rongliren.com/api/video/m3u8?id=69&amp;admin=1
-RLR70,https://ss.rongliren.com/api/video/m3u8?id=70&amp;admin=1
-RLR71,https://ss.rongliren.com/api/video/m3u8?id=71&amp;admin=1
-RLR72,https://ss.rongliren.com/api/video/m3u8?id=72&amp;admin=1
-RLR73,https://ss.rongliren.com/api/video/m3u8?id=73&amp;admin=1
-RLR74,https://ss.rongliren.com/api/video/m3u8?id=74&amp;admin=1
-RLR75,https://ss.rongliren.com/api/video/m3u8?id=75&amp;admin=1
-RLR76,https://ss.rongliren.com/api/video/m3u8?id=76&amp;admin=1
-RLR77,https://ss.rongliren.com/api/video/m3u8?id=77&amp;admin=1
-RLR78,https://ss.rongliren.com/api/video/m3u8?id=78&amp;admin=1
-RLR79,https://ss.rongliren.com/api/video/m3u8?id=79&amp;admin=1
-RLR80,https://ss.rongliren.com/api/video/m3u8?id=80&amp;admin=1
-RLR81,https://ss.rongliren.com/api/video/m3u8?id=81&amp;admin=1
-RLR82,https://ss.rongliren.com/api/video/m3u8?id=82&amp;admin=1
-RLR83,https://ss.rongliren.com/api/video/m3u8?id=83&amp;admin=1
-RLR84,https://ss.rongliren.com/api/video/m3u8?id=84&amp;admin=1
-RLR85,https://ss.rongliren.com/api/video/m3u8?id=85&amp;admin=1
-RLR86,https://ss.rongliren.com/api/video/m3u8?id=86&amp;admin=1
-RLR87,https://ss.rongliren.com/api/video/m3u8?id=87&amp;admin=1
-RLR88,https://ss.rongliren.com/api/video/m3u8?id=88&amp;admin=1
-RLR89,https://ss.rongliren.com/api/video/m3u8?id=89&amp;admin=1
-RLR90,https://ss.rongliren.com/api/video/m3u8?id=90&amp;admin=1
-RLR91,https://ss.rongliren.com/api/video/m3u8?id=91&amp;admin=1
-RLR92,https://ss.rongliren.com/api/video/m3u8?id=92&amp;admin=1
-RLR93,https://ss.rongliren.com/api/video/m3u8?id=93&amp;admin=1
-RLR94,https://ss.rongliren.com/api/video/m3u8?id=94&amp;admin=1
-RLR95,https://ss.rongliren.com/api/video/m3u8?id=95&amp;admin=1
-RLR96,https://ss.rongliren.com/api/video/m3u8?id=96&amp;admin=1
-RLR97,https://ss.rongliren.com/api/video/m3u8?id=97&amp;admin=1
-RLR98,https://ss.rongliren.com/api/video/m3u8?id=98&amp;admin=1
-RLR99,https://ss.rongliren.com/api/video/m3u8?id=99&amp;admin=1
-RLR100,https://ss.rongliren.com/api/video/m3u8?id=100&amp;admin=1
-RLR101,https://ss.rongliren.com/api/video/m3u8?id=101&amp;admin=1
-RLR102,https://ss.rongliren.com/api/video/m3u8?id=102&amp;admin=1
-RLR103,https://ss.rongliren.com/api/video/m3u8?id=103&amp;admin=1
-RLR104,https://ss.rongliren.com/api/video/m3u8?id=104&amp;admin=1
-RLR105,https://ss.rongliren.com/api/video/m3u8?id=105&amp;admin=1
-RLR106,https://ss.rongliren.com/api/video/m3u8?id=106&amp;admin=1
-RLR107,https://ss.rongliren.com/api/video/m3u8?id=107&amp;admin=1
-RLR108,https://ss.rongliren.com/api/video/m3u8?id=108&amp;admin=1
-RLR109,https://ss.rongliren.com/api/video/m3u8?id=109&amp;admin=1
-RLR110,https://ss.rongliren.com/api/video/m3u8?id=110&amp;admin=1
-RLR111,https://ss.rongliren.com/api/video/m3u8?id=111&amp;admin=1
-RLR112,https://ss.rongliren.com/api/video/m3u8?id=112&amp;admin=1
-RLR113,https://ss.rongliren.com/api/video/m3u8?id=113&amp;admin=1
-RLR114,https://ss.rongliren.com/api/video/m3u8?id=114&amp;admin=1
-RLR115,https://ss.rongliren.com/api/video/m3u8?id=115&amp;admin=1
+myvideo file 64,https://ss.rongliren.com/api/video/m3u8?id=64&amp;admin=1
+myvideo file 65,https://ss.rongliren.com/api/video/m3u8?id=65&amp;admin=1
+myvideo file 66,https://ss.rongliren.com/api/video/m3u8?id=66&amp;admin=1
+myvideo file 67,https://ss.rongliren.com/api/video/m3u8?id=67&amp;admin=1
+myvideo file 68,https://ss.rongliren.com/api/video/m3u8?id=68&amp;admin=1
+myvideo file 69,https://ss.rongliren.com/api/video/m3u8?id=69&amp;admin=1
+myvideo file 70,https://ss.rongliren.com/api/video/m3u8?id=70&amp;admin=1
+myvideo file 71,https://ss.rongliren.com/api/video/m3u8?id=71&amp;admin=1
+myvideo file 72,https://ss.rongliren.com/api/video/m3u8?id=72&amp;admin=1
+myvideo file 73,https://ss.rongliren.com/api/video/m3u8?id=73&amp;admin=1
+myvideo file 74,https://ss.rongliren.com/api/video/m3u8?id=74&amp;admin=1
+myvideo file 75,https://ss.rongliren.com/api/video/m3u8?id=75&amp;admin=1
+myvideo file 76,https://ss.rongliren.com/api/video/m3u8?id=76&amp;admin=1
+myvideo file 77,https://ss.rongliren.com/api/video/m3u8?id=77&amp;admin=1
+myvideo file 78,https://ss.rongliren.com/api/video/m3u8?id=78&amp;admin=1
+myvideo file 79,https://ss.rongliren.com/api/video/m3u8?id=79&amp;admin=1
+myvideo file 80,https://ss.rongliren.com/api/video/m3u8?id=80&amp;admin=1
+myvideo file 81,https://ss.rongliren.com/api/video/m3u8?id=81&amp;admin=1
+myvideo file 82,https://ss.rongliren.com/api/video/m3u8?id=82&amp;admin=1
+myvideo file 83,https://ss.rongliren.com/api/video/m3u8?id=83&amp;admin=1
+myvideo file 84,https://ss.rongliren.com/api/video/m3u8?id=84&amp;admin=1
+myvideo file 85,https://ss.rongliren.com/api/video/m3u8?id=85&amp;admin=1
+myvideo file 86,https://ss.rongliren.com/api/video/m3u8?id=86&amp;admin=1
+myvideo file 87,https://ss.rongliren.com/api/video/m3u8?id=87&amp;admin=1
+myvideo file 88,https://ss.rongliren.com/api/video/m3u8?id=88&amp;admin=1
+myvideo file 89,https://ss.rongliren.com/api/video/m3u8?id=89&amp;admin=1
+myvideo file 90,https://ss.rongliren.com/api/video/m3u8?id=90&amp;admin=1
+myvideo file 91,https://ss.rongliren.com/api/video/m3u8?id=91&amp;admin=1
+myvideo file 92,https://ss.rongliren.com/api/video/m3u8?id=92&amp;admin=1
+myvideo file 93,https://ss.rongliren.com/api/video/m3u8?id=93&amp;admin=1
+myvideo file 94,https://ss.rongliren.com/api/video/m3u8?id=94&amp;admin=1
+myvideo file 95,https://ss.rongliren.com/api/video/m3u8?id=95&amp;admin=1
+myvideo file 96,https://ss.rongliren.com/api/video/m3u8?id=96&amp;admin=1
+myvideo file 97,https://ss.rongliren.com/api/video/m3u8?id=97&amp;admin=1
+myvideo file 98,https://ss.rongliren.com/api/video/m3u8?id=98&amp;admin=1
+myvideo file 99,https://ss.rongliren.com/api/video/m3u8?id=99&amp;admin=1
+myvideo file 100,https://ss.rongliren.com/api/video/m3u8?id=100&amp;admin=1
+myvideo file 101,https://ss.rongliren.com/api/video/m3u8?id=101&amp;admin=1
+myvideo file 102,https://ss.rongliren.com/api/video/m3u8?id=102&amp;admin=1
+myvideo file 103,https://ss.rongliren.com/api/video/m3u8?id=103&amp;admin=1
+myvideo file 104,https://ss.rongliren.com/api/video/m3u8?id=104&amp;admin=1
+myvideo file 105,https://ss.rongliren.com/api/video/m3u8?id=105&amp;admin=1
+myvideo file 106,https://ss.rongliren.com/api/video/m3u8?id=106&amp;admin=1
+myvideo file 107,https://ss.rongliren.com/api/video/m3u8?id=107&amp;admin=1
+myvideo file 108,https://ss.rongliren.com/api/video/m3u8?id=108&amp;admin=1
+myvideo file 109,https://ss.rongliren.com/api/video/m3u8?id=109&amp;admin=1
+myvideo file 110,https://ss.rongliren.com/api/video/m3u8?id=110&amp;admin=1
+myvideo file 111,https://ss.rongliren.com/api/video/m3u8?id=111&amp;admin=1
+myvideo file 112,https://ss.rongliren.com/api/video/m3u8?id=112&amp;admin=1
+myvideo file 113,https://ss.rongliren.com/api/video/m3u8?id=113&amp;admin=1
+myvideo file 114,https://ss.rongliren.com/api/video/m3u8?id=114&amp;admin=1
+myvideo file 115,https://ss.rongliren.com/api/video/m3u8?id=115&amp;admin=1
 
 
 【VOD2】,#genre#
