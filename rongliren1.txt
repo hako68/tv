@@ -1,4 +1,4 @@
-[RLR1],#genre#
+【RLR1】,#genre#
 RLR64,https://ss.rongliren.com/api/video/m3u8?id=64&amp;admin=1
 RLR65,https://ss.rongliren.com/api/video/m3u8?id=65&amp;admin=1
 RLR66,https://ss.rongliren.com/api/video/m3u8?id=66&amp;admin=1
@@ -138,7 +138,7 @@ RLR199,https://ss.rongliren.com/api/video/m3u8?id=199&amp;admin=1
 RLR200,https://ss.rongliren.com/api/video/m3u8?id=200&amp;admin=1
 
 
-[RLR2],#genre#
+【RLR2】,#genre#
 RLR201,https://ss.rongliren.com/api/video/m3u8?id=201&amp;admin=1
 RLR202,https://ss.rongliren.com/api/video/m3u8?id=202&amp;admin=1
 RLR203,https://ss.rongliren.com/api/video/m3u8?id=203&amp;admin=1
@@ -342,7 +342,7 @@ RLR400,https://ss.rongliren.com/api/video/m3u8?id=400&amp;admin=1
 
 
 
-[RLR3],#genre#
+【RLR3】,#genre#
 RLR401,https://ss.rongliren.com/api/video/m3u8?id=401&amp;admin=1
 RLR402,https://ss.rongliren.com/api/video/m3u8?id=402&amp;admin=1
 RLR403,https://ss.rongliren.com/api/video/m3u8?id=403&amp;admin=1
@@ -546,7 +546,7 @@ RLR600,https://ss.rongliren.com/api/video/m3u8?id=600&amp;admin=1
 
 
 
-[RLR4],#genre#
+【RLR4】,#genre#
 RLR601,https://ss.rongliren.com/api/video/m3u8?id=601&amp;admin=1
 RLR602,https://ss.rongliren.com/api/video/m3u8?id=602&amp;admin=1
 RLR603,https://ss.rongliren.com/api/video/m3u8?id=603&amp;admin=1
@@ -750,7 +750,7 @@ RLR800,https://ss.rongliren.com/api/video/m3u8?id=800&amp;admin=1
 
 
 
-[RLR5],#genre#
+【RLR5】,#genre#
 RLR801,https://ss.rongliren.com/api/video/m3u8?id=801&amp;admin=1
 RLR802,https://ss.rongliren.com/api/video/m3u8?id=802&amp;admin=1
 RLR803,https://ss.rongliren.com/api/video/m3u8?id=803&amp;admin=1
@@ -1154,7 +1154,7 @@ RLR1200,https://ss.rongliren.com/api/video/m3u8?id=1200&amp;admin=1
 
 
 
-[RLR6],#genre#
+【RLR6】,#genre#
 RLR1201,https://ss.rongliren.com/api/video/m3u8?id=1201&amp;admin=1
 RLR1202,https://ss.rongliren.com/api/video/m3u8?id=1202&amp;admin=1
 RLR1203,https://ss.rongliren.com/api/video/m3u8?id=1203&amp;admin=1
@@ -1357,7 +1357,7 @@ RLR1399,https://ss.rongliren.com/api/video/m3u8?id=1399&amp;admin=1
 RLR1400,https://ss.rongliren.com/api/video/m3u8?id=1400&amp;admin=1
 
 
-[RLR7],#genre#
+【RLR7】,#genre#
 RLR1401,https://ss.rongliren.com/api/video/m3u8?id=1401&amp;admin=1
 RLR1402,https://ss.rongliren.com/api/video/m3u8?id=1402&amp;admin=1
 RLR1403,https://ss.rongliren.com/api/video/m3u8?id=1403&amp;admin=1
@@ -1560,7 +1560,7 @@ RLR1599,https://ss.rongliren.com/api/video/m3u8?id=1599&amp;admin=1
 RLR1600,https://ss.rongliren.com/api/video/m3u8?id=1600&amp;admin=1
 
 
-[RLR8],#genre#
+【RLR8】,#genre#
 RLR1601,https://ss.rongliren.com/api/video/m3u8?id=1601&amp;admin=1
 RLR1602,https://ss.rongliren.com/api/video/m3u8?id=1602&amp;admin=1
 RLR1603,https://ss.rongliren.com/api/video/m3u8?id=1603&amp;admin=1
