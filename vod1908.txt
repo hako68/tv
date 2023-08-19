@@ -210,7 +210,7 @@
 时长:01:11:12-DLHEY_20220504 爱拉的手吻 あいら_2,https://ss.rongliren.com/api/video/m3u8?id=13716&amp;admin=1
 
 
-[RLR1],#genre#
+【rong】,#genre#
 myvideo file 64,https://ss.rongliren.com/api/video/m3u8?id=64&amp;admin=1
 myvideo file 65,https://ss.rongliren.com/api/video/m3u8?id=65&amp;admin=1
 myvideo file 66,https://ss.rongliren.com/api/video/m3u8?id=66&amp;admin=1
