@@ -10,9 +10,24 @@
             "url": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/rongliren2.txt"
         },
         {    
+            "name": "🔞Japanese",
+            "type": 0,
+            "url": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/vod08a.txt"
+        },
+        {    
                    
-            "name": "🔞Other",
+            "name": "🔞Other1",
             "type": 0,
             "url": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/vod1908a.txt"
+        },
+        {    
+            "name": "🔞Other2",
+            "type": 0,
+            "url": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/vod1908b.txt"
+        },
+        {    
+            "name": "🔞Other3",
+            "type": 0,
+            "url": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/vod08b.txt"
         }
 ]
