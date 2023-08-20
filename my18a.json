@@ -27,12 +27,7 @@
         },
         {    
             "name": "🔞Other3",
-            "type": 0,
+            "type": 1,
             "url": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/vod08b.txt"
-        },
-        {    
-            "name": "🔞Other4",
-            "type": 0,
-            "url": "https://ghproxy.com/raw.githubusercontent.com/eklins/FDTV/main/tv/tv%20Global.m3u"
-         }
+        }
 ]
