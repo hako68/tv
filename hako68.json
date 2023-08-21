@@ -1400,12 +1400,12 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"key": "2xxbb",
 	"name": "🔞2xxbb🔞",
 	"type": 3,
-	"api": "csp_xBPQ",
+	"api": "csp_xBPQx",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
-	"ext": "https://raw.githubusercontent.com/hako68/tv/main/新香蕉AV解说.json"
-	
+	"ext": "https://raw.githubusercontent.com/hako68/tv/main/新香蕉AV解说.json",
+	"jar": "http://lgz.hk3.xyyun.publicvm.com/json/xb.jar"
 },   
 
 	  
