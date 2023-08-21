@@ -3119,10 +3119,11 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
     }
   ],
       "lives": [
-        {
-            "name": "test",
+        
+	{
+            "name": "蜂蜜18+",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
@@ -3204,13 +3205,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "蜂蜜18+",
-            "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },
+        
         {
             "name": "月光宝盒",
             "type": 0,
