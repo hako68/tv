@@ -3121,12 +3121,12 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
       "lives": [
         
 	{
-            "name": "zhq",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/playlist.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "name":"范明",
+            "type":0,
+            "url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },      
+        },
 	{
             "name": "半路捡来的",
             "type": 0,
@@ -3134,13 +3134,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name":"范明",
-            "type":0,
-            "url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
-            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },
+        
         {
             "name": "道长",
             "type": 0,
