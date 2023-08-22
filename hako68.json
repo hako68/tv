@@ -1427,8 +1427,20 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://raw.githubusercontent.com/hako68/tv/main/78m.json",
-	"jar": "http://lgz.hk3.xyyun.publicvm.com/json/xb.jar"
+	
 },   
+{
+	"key": "hkdoll",
+	"name": "🔞hkdoll🔞",
+	"type": 3,
+	"api": "csp_xBPQx",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/%E7%8E%A9%E5%81%B6%E5%A7%90%E5%A7%90.json",
+	
+},   
+
 
 	  
 	  {
