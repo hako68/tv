@@ -1479,7 +1479,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"jar": "http://lgz.hk3.xyyun.publicvm.com/json/xb.jar"
 },     
        
-       
+       {"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
        {"key": "天美AV","name": "🔞天美AV🔞","type": 1,"api": "https://tmav.art/api.php/provide/vod/", "searchable": 0,"quickSearch": 0, "filterable": 0 },
        {"key": "KOK资源","name": "🔞KOK资源🔞","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 0,"quickSearch": 0, "filterable": 0 },
        {"key":"QQ传媒","name":"🔞QQ传媒🔞","type":1,"api":"https://qqcm.sbs/api.php/provide/vod/","searchable":0,"quickSearch":0},
