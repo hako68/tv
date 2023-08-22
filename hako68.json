@@ -1407,6 +1407,17 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"ext": "https://raw.githubusercontent.com/hako68/tv/main/新香蕉AV解说.json"
 	
 },   
+{
+	"key": "91s",
+	"name": "🔞91s🔞",
+	"type": 3,
+	"api": "csp_xBPQx",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://raw.githubusercontent.com/hako68/tv/main/91s.json"
+	
+},   
 
 	  
 	  {
