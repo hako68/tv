@@ -1587,6 +1587,20 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	
      },   
     {
+	"key": "MISSAV123",
+	"name": "🔞MISSAV123🔞",
+	"type": 3,
+	"api": "csp_xBPQx",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/Miss AV.json"
+	
+     },   
+	  
+	  {
+	    
+	    
       "key": "右手影院",
       "name": "🔞右手影院🔞",
       "type": 3,
