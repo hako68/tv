@@ -1578,8 +1578,9 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
     },
     {
 	"key": "18AV3",
-	"name": "🔞18AV3v🔞",
+	"name": "🔞18AV3🔞",
 	"type": 3,
+	"api": "csp_XYQHiker",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
@@ -1590,6 +1591,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"key": "MISSAV123",
 	"name": "🔞MISSAV123(VPN)🔞",
 	"type": 3,
+	"api": "csp_XYQHiker",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
@@ -1600,7 +1602,8 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"key": "PIGAV (VPN)",
 	"name": "🔞PIGAV🔞",
 	"type": 3,
-	"searchable": 1,
+	"api": "csp_XYQHiker",
+        "searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
 	"ext": "https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/%E6%9C%B1%E5%8F%A4%E5%8A%9B.json"
