@@ -1725,6 +1725,17 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
       "searchable": 1
     },
     {
+      "key": "91md",
+      "name": "*🔞九一线",
+      "type": 1,"style":{ "type":"rect", "ratio":1.33 },
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable": 0,
+      "jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
+    },
+	  
+	  {
       "key": "dadiapi.com",
       "name": "❤成人06",
       "type": 0,"style":{ "type":"rect", "ratio":1.33 },
