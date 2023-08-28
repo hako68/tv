@@ -1368,6 +1368,18 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
         "ext":"https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/my18b.json"
         },
 
+{
+     "key":"cs_Xiangjiao",
+     "name":"*🔞new香蕉",
+     "type":3,
+     "api":"csp_Xiangjiao",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/my_18spider.jar"
+    },    
+	  
+	  
     {"key":"hindlandtv","name":"🔞hindlandtv🔞","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/hinlandtv.json"},
     {"key":"ckss333","name":"🔞ckss333🔞","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/ckss333.json"},
     {"key":"banantv","name":"🔞banantv🔞","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/banantv.json"},
