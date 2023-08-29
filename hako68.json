@@ -1442,7 +1442,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 {
 	"key": "test",
 	"name": "🔞test🔞",
-	"type": 8,
+	"type": 3,
 	"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/7mm.json"
 	
 	
