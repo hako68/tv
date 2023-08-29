@@ -1455,13 +1455,13 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	
 	"key": "test",
 	"name": "🔞test🔞",
-	"type": 3,
+	"type": 8,
 	"api": "csp_xBPQx",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
-	"ext":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/7mm.json"
-	
+	"ext":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/7mm.json",
+	"jar": "http://lgz.hk3.xyyun.publicvm.com/json/xb.jar"
 	
 },	  
 
