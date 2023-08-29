@@ -1443,8 +1443,10 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"key": "test",
 	"name": "🔞test🔞",
 	"type": 8,
-	"api":"https://raw.githubusercontent.com/trial/dp/master/json2/dbk.json"
-	
+	"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/rou.json"
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0
 	
 },	  
 
