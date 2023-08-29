@@ -1440,28 +1440,6 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"ext": "https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/%E8%89%B2%E8%8A%B1%E5%A0%82.json"
 	
 },   
-{
-	"key": "nowav",
-	"name": "🔞nowav🔞",
-	"type": 3,
-	"api": "csp_xBPQx",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://raw.githubusercontent.com/hako68/tv/main/nowav.json"
-	
-},   
-{
-	"key": "nowav1",
-	"name": "🔞nowav1🔞",
-	"type": 3,
-	"api": "csp_xBPQx",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://raw.githubusercontent.com/tiantuhao/tvinterface/main/file/%E5%A5%B3%E4%BC%98.json"
-	
-},   
 
 	  
 	  {
