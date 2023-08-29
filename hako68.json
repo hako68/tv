@@ -1418,7 +1418,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
  },
 
  {
-	"key": "avhh1",
+	"key": "avhh1gccm",
 	"name": "🔞avhh1🔞",
 	"type": 3,
 	"api": "csp_xBPQx",
@@ -1429,21 +1429,34 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	
 },
 {
-	"key": "avhh2",
+	"key": "avhh2zb",
 	"name": "🔞avhh2🔞",
 	"type": 3,
 	"api": "csp_xBPQx",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
-	"ext": "https://raw.githubusercontent.com/lmlmi/xxxx/blob/main/xBPQ/%E6%96%B0%E9%A6%99%E8%95%89%E5%AE%9E%E6%97%B6%E7%9B%B4%E6%92%AD.json"
+	"ext": "https://raw.githubusercontent.com/lmlmi/xxxx/main/xBPQ/%E6%96%B0%E9%A6%99%E8%95%89%E5%AE%9E%E6%97%B6%E7%9B%B4%E6%92%AD.json"
 	
-},	  
+},	
 {
+	"key": "avhh3xjzy",
+	"name": "🔞avhh3🔞",
+	"type": 3,
+	"api": "csp_xBPQx",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://raw.githubusercontent.com/lmlmi/xxxx/main/xBPQ/%E6%96%B0%E9%A6%99%E8%95%89%E9%BA%BB%E8%B1%86%E5%A5%B3%E4%BC%98.json"
+	
+},	  	  
+{
+	
+	
 	"key": "test",
 	"name": "🔞test🔞",
-	"type": 8,
-	"api": "csp_xBPQ",
+	"type": 3,
+	"api": "csp_xBPQx",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
