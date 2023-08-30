@@ -1482,7 +1482,17 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"ext": "https://raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/%E9%BB%84%E7%93%9C.json"
 	
 },
-	  
+    {
+            "key": "37311",
+            "name": "🔞37311🔞",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "直接播放": "1",
+                "分类url": "https://37311.net/Index/lists?cat={cateId}.html",
+                "分类": "天美传媒$46"
+            }
+        },    
 	  {
 	"key": "hsck",
 	"name": "🔞hsck🔞",
