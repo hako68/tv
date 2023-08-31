@@ -1417,7 +1417,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
        }
  },
  	{"key":"*lajiao","name":"🔞lajiaozy🔞","type":1,"api":"http://www.lajiaozy18.com/api.php/provide/vod?ac=list"},
-       	{"key":"*S袜资源","name":"*S袜资源","type":1,"api":"https://siwazyw.net/api.php/provide/vod/"},
+       	{"key":"*122app","name":"122app","type":0,"api":"http://122ap.com/inc/api.php"},
 
 	  {
 	"key": "pttsex",
