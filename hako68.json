@@ -1417,12 +1417,12 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
        }
  },
  	{"key":"*lajiao","name":"🔞lajiaozy🔞","type":1,"api":"http://www.lajiaozy18.com/api.php/provide/vod?ac=list"},
-       	{"key":"*122app","name":"122app","type":3,"api":"http://122ap.com/inc/api.php"},
+       	{"key":"*122app","name":"122app","type":0,"api":"http://122ap.com/inc/api.php"},
 
 	  {
 	"key": "pttsex",
 	"name": "🔞pttsex🔞",
-	"type": 1,
+	"type": 3,
 	"api": "csp_xBPQx",
 	"searchable": 1,
 	"quickSearch": 1,
