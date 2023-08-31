@@ -1549,6 +1549,18 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	"ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/%E8%A5%BF%E7%93%9C%E5%BD%B1%E8%A7%86.json"
 	
 },
+	  {
+	
+	"key": "60220",
+	"name": "🔞60220🔞",
+	"type": 3,
+	"api": "csp_xBPQx",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://raw.githubusercontent.com/qcfree/tvboxzy/main/sex/AV%E4%B8%80.json"
+	
+},
 
 {
 	"key": "maomixx",
