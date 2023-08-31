@@ -1416,7 +1416,9 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
  "分类": "麻豆视频$121#91制片厂$122#天美传媒$123#蜜桃传媒$124#皇家华人$125#星空传媒$126#精东影业$127#乐播传媒$128#91茄子$129#玩偶姐姐$133#草莓猛料$136#葫芦影业$139#果冻传媒$140#欧美性爱$29#丝袜美腿$56#亚洲情色$58#步兵无码$28#国产精品$10#空姐模特$19#北京天使$119" 
        }
  },
- {
+ 	{"key":"*lajiao","name":"🔞辣椒资源🔞","type":1,"api":"http://www.lajiaozy18.com/api.php/provide/vod?ac=list"},
+
+	  {
 	"key": "pttsex",
 	"name": "🔞pttsex🔞",
 	"type": 3,
