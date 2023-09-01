@@ -82,7 +82,7 @@
 {"key":"afasu.com","name":"成人41","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"52zyapi.com","name":"成人42","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"lbapi9.com","name":"成人43","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
-{"key":"apittzy.com","name":"成人44","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"apittzy.com","name":"成人44","type":0,"api":"https://apittzy.com/api.php/provide/vod/at/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"kkzy.me","name":"成人45","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"xrbsp.com","name":"成人46","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"xx55zyapi.com","name":"成人47","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
