@@ -1,8 +1,9 @@
 {
 //"spider":"https://raw.githubusercontent.com/c120487/00/main/jar/xc0126.jar"
 //"spider":"https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
-"spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fm.nogo.jar;md5;58de58c9908839d3e1b4ebb61d77f752",
-"lives":[{"name":"初秋语","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
+//"spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fm.nogo.jar;md5;58de58c9908839d3e1b4ebb61d77f752",
+"spider":"https://rawgithubusercontent.com/zhanghong1983/tvboxzy/main/jar/zy.jar",
+  "lives":[{"name":"初秋语","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
 {"name":"YanG","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"atsushi","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
 {"name":"AV","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u"}
