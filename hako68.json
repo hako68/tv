@@ -1418,7 +1418,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
  },
  	{"key":"*lajiao","name":"🔞lajiaozy🔞","type":1,"api":"http://www.lajiaozy18.com/api.php/provide/vod?ac=list"},
        	{"key":"*122app","name":"122app","type":0,"api":"http://122ap.com/inc/api.php"},
-{"key":"JavSee","name":"JavSee","api":"csp_XBPQx","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men"},
+{"key":"JavSee","name":"JavSee","api":"csp_XBPQx","type":1,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men"},
 {"key":"55xo","name":"55xo","type":3,"api":"csp_xBPQx","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/新香蕉.json"},
 {"key":"Apixj","name":"Apixj","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/日日夜夜.json"},  
 	  {
