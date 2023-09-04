@@ -1430,7 +1430,29 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 {"key":"HKDoll1","name":"HKDoll1","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.309},"ext":{"图片":"data-src=\"&&\"","直接播放":"1","分类url":"https://hongkongdollvideo.com/{cateId}/{catePg}.html","分类":"麻豆$麻豆传媒#天美$天美传媒#91$91制片厂#蜜桃$蜜桃传媒#香港$HongkongDoll#皇家$皇家华人#精东$精东影业#乐播$乐播传媒#成人$成人头条#乌鸦$乌鸦传媒#兔子$兔子先生#杏吧$杏吧原创#mini$mini传媒#大象$大象传媒#开心鬼$开心鬼传媒#pass$PsychoPorn#糖心$糖心Vlog"},"jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt","style":{"type":"rect","ratio":1.33}},
 {"key":"JavDb2","name":"🔞JavDb2","type":3,"api":"csp_JavDb","searchable":0,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/h/javbus.jpg"},
 {"key":"sezb","name":"🔞sezb","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/jy.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xb.jar"},
-{
+  {
+            "key": "Candyfuliji",
+            "name": "🔞Candyfuliji",
+            "type": 3,
+            "api": "csp_CandyMuj_fuliji",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "91.108.56.145:80","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/h/muj.jar"
+        },
+        {
+            "key": "Candykuaimao",
+            "name": "🔞Candykuaimao",
+            "type": 3,
+            "api": "csp_CandyMuj_kuaimao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "91.108.56.145:80","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/h/muj.jar"
+        },
+	  
+	  
+	  {
 	"key": "pttsex",
 	"name": "🔞pttsex🔞",
 	"type": 3,
