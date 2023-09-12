@@ -3493,7 +3493,8 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
 	{
             "name": "蜂蜜18+",
             "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
+            "url": "https://raw.githubusercontent.com/hako68/tv/main/%E4%B8%87%E7%BB%B4%E7%9B%B4%E6%92%AD.txt",
+		//"url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
