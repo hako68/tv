@@ -1420,7 +1420,7 @@ https://gh-proxy.com/https://github.com/FongMi/TV/blob/dev/other/sample/live/off
        	{"key":"*122app","name":"122app","type":0,"api":"http://122ap.com/inc/api.php"},
 {"key":"JavSee","name":"JavSee","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men","jar":"http://52bsj.vip:81/api/v3/file/get/61635/18.jar?sign=TqxkdwFQQUaAK59b950h1sgG8P6HKPbIGIFgvsBrhtQ%3D%3A0"},
 {"key": "legallet1","name": "legallet1","type": 1,"api": "https://legallet.org/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-//{"key": "legallet2","name": "legallet2","type": 1,"ext": "https://raw.githubusercontent.com/wanjune/wanjune.github.io/86acda69db3058e24dbf021d31908c2d6c0f905d/static/tvbox/xpath/hd/grunt.json", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "legallet2","name": "legallet2","api":"csp_xBPQx","type": 1,"ext": "https://raw.githubusercontent.com/wanjune/wanjune.github.io/86acda69db3058e24dbf021d31908c2d6c0f905d/static/tvbox/xpath/hd/grunt.json", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"55xo","name":"55xo","type":3,"api":"csp_xBPQx","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/新香蕉.json"},
 {"key":"Apixj","name":"Apixj","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/日日夜夜.json"},  
 {"key":"XMister","name":"XMister","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/tvboxzy/main/sex/X先生.json"},
