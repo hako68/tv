@@ -1,4 +1,4 @@
-   {
+{
   
   "sites": [
      
@@ -6,7 +6,7 @@
       "name": "无限臀山",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -41,7 +41,7 @@
       "name": "112VV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -62,7 +62,7 @@
 			"name": "激情",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "xbpq.jar",
+			"jar": "./jar/xbpq.jar",
 			"ext": {
 				"主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
 				"直接播放": "1",
@@ -85,7 +85,7 @@
 			"name": "精品VV",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "xbpq.jar",
+			"jar": "./jar/xbpq.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -180,7 +180,7 @@
 			"name": "👯‍♀️AV┃小次郎",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "xbpq.jar",
+			"jar": "./jar/xbpq.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -248,7 +248,7 @@
 			"name": "🍑蜜桃┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "xbpq.jar",
+			"jar": "./jar/xbpq.jar",
 			"ext": {
 				"二次截取": "class=\"block-post&&align=\"center",
 				"数组": "target=\"_blank&&class=\"info-post",
@@ -269,7 +269,7 @@
 			"name": "都是弟弟",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "xbpq.jar",
+			"jar": "./jar/xbpq.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
