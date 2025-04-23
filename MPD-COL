@@ -1562,18 +1562,18 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash/soccerc
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="VISION+", SPORTSTARS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="VISION+", SPORTSTARS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=113&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="VISION+", SPORTSTARS 3
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=113&type=drm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
