@@ -2150,4 +2150,27 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 #EXTINF:-1 tvg-id="LIFE - [Channel 91].id"  tvg-id="LIFE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/942/49942-SNAPSHOT-l.png" group-title="VISION+",LIFE
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Life/sa_dash/Life.mpd
 
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://static.mncnow.id/images/channel/17c7c1b0/a32f_r32.jpg" group-title="2. VISION++", Metro TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd 
+
+#EXTINF:-1 tvg-id="Kompas TV" tvg-logo="https://static.mncnow.id/images/channel/6830ce0e/5940_r32.jpg" group-title="2. VISION++", Kompas TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd 
+
+#EXTINF:-1 tvg-id="TV One" tvg-logo="https://static.mncnow.id/images/channel/e9fade08/706a_r32.jpg" group-title="2. VISION++", TV One 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd 
+
+#EXTINF:-1 tvg-id="BTV" tvg-logo="https://static.mncnow.id/images/channel/5727e9d9/9d9f_r32.jpg" group-title="2. VISION++", BTV #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd 
+
+#EXTINF:-1 tvg-id="SINDONEWS TV" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg" group-title="2. VISION++", SINDONEWS TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd 
 
