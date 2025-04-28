@@ -1,3 +1,78 @@
+#EXTINF:-1 group-title="SmartTV" tvg-name="Animax" tvg-logo="https://epg.112114.xyz/logo/Animax.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animax
+http://phdown.serv00.net/Smartv.php?id=Animax
+#EXTINF:-1 group-title="SmartTV" tvg-name="AnTV" tvg-logo="https://epg.112114.xyz/logo/AnTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AnTV
+http://phdown.serv00.net/Smartv.php?id=Antv
+#EXTINF:-1 group-title="SmartTV" tvg-name="Beinsports 2" tvg-logo="https://epg.112114.xyz/logo/Beinsports 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Beinsports 2
+http://phdown.serv00.net/Smartv.php?id=Bein2hd
+#EXTINF:-1 group-title="SmartTV" tvg-name="Berita Satu" tvg-logo="https://epg.112114.xyz/logo/Berita Satu.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Berita Satu
+http://phdown.serv00.net/Smartv.php?id=BeritaSatu_eko
+#EXTINF:-1 group-title="SmartTV" tvg-name="Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Celestial Movies HD
+http://phdown.serv00.net/Smartv.php?id=Celestialindo
+#EXTINF:-1 group-title="SmartTV" tvg-name="Cinemax" tvg-logo="https://epg.112114.xyz/logo/Cinemax.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Cinemax
+http://phdown.serv00.net/Smartv.php?id=Cinemax
+#EXTINF:-1 group-title="SmartTV" tvg-name="Daai TV" tvg-logo="https://epg.112114.xyz/logo/Daai TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Daai TV
+http://phdown.serv00.net/Smartv.php?id=DaaiTV
+#EXTINF:-1 group-title="SmartTV" tvg-name="Entertain" tvg-logo="https://epg.112114.xyz/logo/Entertain.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Entertain
+http://phdown.serv00.net/Smartv.php?id=Entertain
+#EXTINF:-1 group-title="SmartTV" tvg-name="Fight Sports" tvg-logo="https://epg.112114.xyz/logo/Fight Sports.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fight Sports
+http://phdown.serv00.net/Smartv.php?id=Fs
+#EXTINF:-1 group-title="SmartTV" tvg-name="GTV" tvg-logo="https://epg.112114.xyz/logo/GTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GTV
+http://phdown.serv00.net/Smartv.php?id=Gtv
+#EXTINF:-1 group-title="SmartTV" tvg-name="Hits" tvg-logo="https://epg.112114.xyz/logo/Hits.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hits
+http://phdown.serv00.net/Smartv.php?id=Hits
+#EXTINF:-1 group-title="SmartTV" tvg-name="Hits Movie" tvg-logo="https://epg.112114.xyz/logo/Hits Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hits Movie
+http://phdown.serv00.net/Smartv.php?id=Hitsmovie
+#EXTINF:-1 group-title="SmartTV" tvg-name="Indosiar HD" tvg-logo="https://epg.112114.xyz/logo/Indosiar HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Indosiar HD
+http://phdown.serv00.net/Smartv.php?id=Indosiar
+#EXTINF:-1 group-title="SmartTV" tvg-name="iNews TV" tvg-logo="https://epg.112114.xyz/logo/iNews TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",iNews TV
+http://phdown.serv00.net/Smartv.php?id=Inewstv
+#EXTINF:-1 group-title="SmartTV" tvg-name="Jak TV" tvg-logo="https://epg.112114.xyz/logo/Jak TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Jak TV
+http://phdown.serv00.net/Smartv.php?id=JakTV
+#EXTINF:-1 group-title="SmartTV" tvg-name="JTV" tvg-logo="https://epg.112114.xyz/logo/JTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",JTV
+http://phdown.serv00.net/Smartv.php?id=JTV_eko
+#EXTINF:-1 group-title="SmartTV" tvg-name="Kompass TV" tvg-logo="https://epg.112114.xyz/logo/Kompass TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Kompass TV
+http://phdown.serv00.net/Smartv.php?id=Kompass
+#EXTINF:-1 group-title="SmartTV" tvg-name="Lifestyle & Fashion" tvg-logo="https://epg.112114.xyz/logo/Lifestyle & Fashion.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Lifestyle & Fashion
+http://phdown.serv00.net/Smartv.php?id=Lifestyle
+#EXTINF:-1 group-title="SmartTV" tvg-name="Metro TV" tvg-logo="https://epg.112114.xyz/logo/Metro TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Metro TV
+http://phdown.serv00.net/Smartv.php?id=metrotv_eko
+#EXTINF:-1 group-title="SmartTV" tvg-name="MNC TV" tvg-logo="https://epg.112114.xyz/logo/MNC TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MNC TV
+http://phdown.serv00.net/Smartv.php?id=Mnctv
+#EXTINF:-1 group-title="SmartTV" tvg-name="Music TV" tvg-logo="https://epg.112114.xyz/logo/Music TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Music TV
+http://phdown.serv00.net/Smartv.php?id=MusicTV
+#EXTINF:-1 group-title="SmartTV" tvg-name="Net TV" tvg-logo="https://epg.112114.xyz/logo/Net TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Net TV
+http://phdown.serv00.net/Smartv.php?id=NetTV
+#EXTINF:-1 group-title="SmartTV" tvg-name="One" tvg-logo="https://epg.112114.xyz/logo/One.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",One
+http://phdown.serv00.net/Smartv.php?id=One_mega
+#EXTINF:-1 group-title="SmartTV" tvg-name="RCTI" tvg-logo="https://epg.112114.xyz/logo/RCTI.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RCTI
+http://phdown.serv00.net/Smartv.php?id=Rcti
+#EXTINF:-1 group-title="SmartTV" tvg-name="Rock Actions" tvg-logo="https://epg.112114.xyz/logo/Rock Actions.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rock Actions
+http://phdown.serv00.net/Smartv.php?id=Rockaction
+#EXTINF:-1 group-title="SmartTV" tvg-name="Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/Rock Entertainment.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Rock Entertainment
+http://phdown.serv00.net/Smartv.php?id=Rockentertain
+#EXTINF:-1 group-title="SmartTV" tvg-name="RTV" tvg-logo="https://epg.112114.xyz/logo/RTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTV
+http://phdown.serv00.net/Smartv.php?id=Rtv
+#EXTINF:-1 group-title="SmartTV" tvg-name="SCM" tvg-logo="https://epg.112114.xyz/logo/SCM.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCM
+http://phdown.serv00.net/Smartv.php?id=Weishimovie
+#EXTINF:-1 group-title="SmartTV" tvg-name="SCTV" tvg-logo="https://epg.112114.xyz/logo/SCTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCTV
+http://phdown.serv00.net/Smartv.php?id=SCTV
+#EXTINF:-1 group-title="SmartTV" tvg-name="Thrill" tvg-logo="https://epg.112114.xyz/logo/Thrill.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Thrill
+http://phdown.serv00.net/Smartv.php?id=Thrill
+#EXTINF:-1 group-title="SmartTV" tvg-name="Trans 7" tvg-logo="https://epg.112114.xyz/logo/Trans 7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Trans 7
+http://phdown.serv00.net/Smartv.php?id=Trans7_eko
+#EXTINF:-1 group-title="SmartTV" tvg-name="Transtv" tvg-logo="https://epg.112114.xyz/logo/Transtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Transtv
+http://phdown.serv00.net/Smartv.php?id=Transtv
+#EXTINF:-1 group-title="SmartTV" tvg-name="tvN Movie" tvg-logo="https://epg.112114.xyz/logo/tvN Movie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",tvN Movie
+http://phdown.serv00.net/Smartv.php?id=Tvnmovie
+#EXTINF:-1 group-title="SmartTV" tvg-name="Tvone" tvg-logo="https://epg.112114.xyz/logo/Tvone.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Tvone
+http://phdown.serv00.net/Smartv.php?id=Tvone
+#EXTINF:-1 group-title="SmartTV" tvg-name="Vision Prime" tvg-logo="https://epg.112114.xyz/logo/Vision Prime.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Vision Prime
+http://phdown.serv00.net/Smartv.php?id=VisionPrime
+#EXTINF:-1 group-title="SmartTV" tvg-name="Warner TV" tvg-logo="https://epg.112114.xyz/logo/Warner TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Warner TV
+http://phdown.serv00.net/Smartv.php?id=WarnerTV
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="LOKAL_ID",RCTI
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="LOKAL_ID",MNCTV
