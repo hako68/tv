@@ -971,6 +971,13 @@ https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2683.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premier League (A)" tvg-logo="https://get.perfecttv.net/logo/premierleagueA.png" group-title="LOKAL_ID",Premier League (A)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2682.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rcti.png" group-title="LOKAL_ID",RCTI 2
+http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/mnctv.png" group-title="LOKAL_ID",MNCTV 2
+http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/gtv.png" group-title="LOKAL_ID",GTV 3
+http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg", MNC TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
