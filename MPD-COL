@@ -393,45 +393,60 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" group-title="TRANSVISION",HBO
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="TRANSVISION",HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="TRANSVISION",HBO
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd 
 
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="TRANSVISION",HBO Family
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="TRANSVISION",HBO Hits
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd 
 
-#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="TRANSVISION",HBO Signature
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="TRANSVISION",HBO Family 
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="TRANSVISION",Cinemax
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="TRANSVISION",HBO Signature
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd 
+
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="TRANSVISION",Cinemax
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
+
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/04/warnertv-logo.jpg" group-title="TRANSVISION",Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1732,7 +1747,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="VISION+", SPORTSTARS 3
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
 #KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=114
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
@@ -3273,3 +3288,335 @@ https://av-ch-cdn.mncnow.id/live/eds/Life/sa_dash/Life.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="" group-title="VISION PLUS" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png",Reformed 21
 https://av-ch-cdn.mncnow.id/live/eds/Reformed21/sa_dash/Reformed21.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",ALBA XXX 2 (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311729
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Anal
+http://cf.business-cdn.me:80/3001645199/92e1687367/328058
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Asian
+http://cf.business-cdn.me:80/3001645199/92e1687367/328053
+#EXTINF:-1 tvg-id="" tvg-name="AVA ADDAMS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",AVA ADDAMS
+http://cf.business-cdn.me:80/3001645199/92e1687367/311525
+#EXTINF:-1 tvg-id="" tvg-name="BABES TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BABES TV 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311526
+#EXTINF:-1 tvg-id="" tvg-name="BABES TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BABES TV HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311715
+#EXTINF:-1 tvg-id="" tvg-name="BABES TV HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BABES TV HD (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311730
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN EROTIC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BALKAN EROTIC
+http://cf.business-cdn.me:80/3001645199/92e1687367/311639
+#EXTINF:-1 tvg-id="" tvg-name="BANG U EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BANG U EUROPE
+http://cf.business-cdn.me:80/3001645199/92e1687367/311683
+#EXTINF:-1 tvg-id="" tvg-name="BARELY LEGAL TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BARELY LEGAL TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311532
+#EXTINF:-1 tvg-id="" tvg-name="BARELY LEGAL TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BARELY LEGAL TV (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311735
+#EXTINF:-1 tvg-id="" tvg-name="BEATE-UHSE.TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BEATE-UHSE.TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311653
+#EXTINF:-1 tvg-id="" tvg-name="BELLESA FILMS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BELLESA FILMS
+http://cf.business-cdn.me:80/3001645199/92e1687367/311533
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Big Ass
+http://cf.business-cdn.me:80/3001645199/92e1687367/328071
+#EXTINF:-1 tvg-id="" tvg-name="BIG ASS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BIG ASS 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311534
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Big Dick
+http://cf.business-cdn.me:80/3001645199/92e1687367/328075
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Big Tits
+http://cf.business-cdn.me:80/3001645199/92e1687367/328074
+#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Blonde
+http://cf.business-cdn.me:80/3001645199/92e1687367/328055
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Blowjob
+http://cf.business-cdn.me:80/3001645199/92e1687367/328067
+#EXTINF:-1 tvg-id="" tvg-name="BLUE HUSTLER TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BLUE HUSTLER TV (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311736
+#EXTINF:-1 tvg-id="" tvg-name="BLUE HUSTLER TV EUROPE (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BLUE HUSTLER TV EUROPE (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311737
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS TV EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BRAZZERS TV EUROPE
+http://cf.business-cdn.me:80/3001645199/92e1687367/311701
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS TV EUROPE RUSSIA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BRAZZERS TV EUROPE RUSSIA
+http://cf.business-cdn.me:80/3001645199/92e1687367/311700
+#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Brunette
+http://cf.business-cdn.me:80/3001645199/92e1687367/328056
+#EXTINF:-1 tvg-id="" tvg-name="BUNGA BUNGA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",BUNGA BUNGA 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311539
+#EXTINF:-1 tvg-id="" tvg-name="CANDY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",CANDY 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311540
+#EXTINF:-1 tvg-id="" tvg-name="CANDY TV HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",CANDY TV HD (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311739
+#EXTINF:-1 tvg-id="" tvg-name="CENTO CENTO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",CENTO CENTO
+http://cf.business-cdn.me:80/3001645199/92e1687367/311541
+#EXTINF:-1 tvg-id="" tvg-name="CENTO X CENTO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",CENTO X CENTO
+http://cf.business-cdn.me:80/3001645199/92e1687367/311655
+#EXTINF:-1 tvg-id="" tvg-name="CENTO X CENTO (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",CENTO X CENTO (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311740
+#EXTINF:-1 tvg-id="" tvg-name="COLLEGE RULES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",COLLEGE RULES
+http://cf.business-cdn.me:80/3001645199/92e1687367/311542
+#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Compilation
+http://cf.business-cdn.me:80/3001645199/92e1687367/328057
+#EXTINF:-1 tvg-id="" tvg-name="COSMID 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",COSMID 2 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311544
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Cuckold
+http://cf.business-cdn.me:80/3001645199/92e1687367/328064
+#EXTINF:-1 tvg-id="" tvg-name="CUCKOLD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",CUCKOLD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311545
+#EXTINF:-1 tvg-id="" tvg-name="DANCING BEAR" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",DANCING BEAR
+http://cf.business-cdn.me:80/3001645199/92e1687367/311550
+#EXTINF:-1 tvg-id="" tvg-name="DAY WITH A PORNSTAR 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",DAY WITH A PORNSTAR 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311552
+#EXTINF:-1 tvg-id="" tvg-name="DESTINY 2 TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",DESTINY 2 TV 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311554
+#EXTINF:-1 tvg-id="" tvg-name="DICK DRAINERS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",DICK DRAINERS 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311555
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL TV HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",DORCEL TV HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311741
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL TV XXX HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",DORCEL TV XXX HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311742
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL XXX  HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",DORCEL XXX  HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311723
+#EXTINF:-1 tvg-id="" tvg-name="DUSK!" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",DUSK!
+http://cf.business-cdn.me:80/3001645199/92e1687367/311708
+#EXTINF:-1 tvg-id="" tvg-name="ERO X HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",ERO X HD (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311744
+#EXTINF:-1 tvg-id="" tvg-name="EROX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",EROX
+http://cf.business-cdn.me:80/3001645199/92e1687367/311651
+#EXTINF:-1 tvg-id="" tvg-name="EROX XXX  HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",EROX XXX  HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311719
+#EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",EVIL ANGEL
+http://cf.business-cdn.me:80/3001645199/92e1687367/311694
+#EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",EVIL ANGEL EUROPE
+http://cf.business-cdn.me:80/3001645199/92e1687367/311693
+#EXTINF:-1 tvg-id="" tvg-name="EXTASY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",EXTASY HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311620
+#EXTINF:-1 tvg-id="" tvg-name="EXXXOTICA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",EXXXOTICA TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311666
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Fetish
+http://cf.business-cdn.me:80/3001645199/92e1687367/328073
+#EXTINF:-1 tvg-id="" tvg-name="FREE X TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",FREE X TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311657
+#EXTINF:-1 tvg-id="" tvg-name="FREE X TV 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",FREE X TV 2
+http://cf.business-cdn.me:80/3001645199/92e1687367/311656
+#EXTINF:-1 tvg-id="" tvg-name="FREE X TV HQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",FREE X TV HQ
+http://cf.business-cdn.me:80/3001645199/92e1687367/311658
+#EXTINF:-1 tvg-id="" tvg-name="FRENCH LOVER (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",FRENCH LOVER (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311750
+#EXTINF:-1 tvg-id="" tvg-name="FRENCH LOVER TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",FRENCH LOVER TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311669
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Gangbang
+http://cf.business-cdn.me:80/3001645199/92e1687367/328059
+#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Gay
+http://cf.business-cdn.me:80/3001645199/92e1687367/328054
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Hardcore
+http://cf.business-cdn.me:80/3001645199/92e1687367/328065
+#EXTINF:-1 tvg-id="" tvg-name="HOT HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",HOT HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311751
+#EXTINF:-1 tvg-id="" tvg-name="HOT TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",HOT TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311571
+#EXTINF:-1 tvg-id="" tvg-name="HOT TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",HOT TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311699
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",HUSTLER HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311727
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",HUSTLER TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311707
+#EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Interracial
+http://cf.business-cdn.me:80/3001645199/92e1687367/328070
+#EXTINF:-1 tvg-id="" tvg-name="JASMIN 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",JASMIN 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311576
+#EXTINF:-1 tvg-id="" tvg-name="JUICY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",JUICY
+http://cf.business-cdn.me:80/3001645199/92e1687367/311756
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Latina
+http://cf.business-cdn.me:80/3001645199/92e1687367/328069
+#EXTINF:-1 tvg-id="" tvg-name="LEGAL TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",LEGAL TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311641
+#EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",LEO TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311579
+#EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",LEO TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311652
+#EXTINF:-1 tvg-id="" tvg-name="LEO TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",LEO TV (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311757
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Lesbian
+http://cf.business-cdn.me:80/3001645199/92e1687367/328061
+#EXTINF:-1 tvg-id="" tvg-name="LESBIAN AFFAIR (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",LESBIAN AFFAIR (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311758
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Live Cams
+http://cf.business-cdn.me:80/3001645199/92e1687367/328077
+#EXTINF:-1 tvg-id="" tvg-name="LUST PUR TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",LUST PUR TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311654
+#EXTINF:-1 tvg-id="" tvg-name="MEIDEN VAN HOLLAND HARD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MEIDEN VAN HOLLAND HARD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311580
+#EXTINF:-1 tvg-id="" tvg-name="MEIDEN VAN HOLLAND HARD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MEIDEN VAN HOLLAND HARD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311695
+#EXTINF:-1 tvg-id="" tvg-name="MIAMI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MIAMI 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311582
+#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MILF
+http://cf.business-cdn.me:80/3001645199/92e1687367/328076
+#EXTINF:-1 tvg-id="" tvg-name="MILF TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MILF TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311632
+#EXTINF:-1 tvg-id="" tvg-name="MiLF TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MiLF TV (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311760
+#EXTINF:-1 tvg-id="" tvg-name="MOFOS LAB 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MOFOS LAB 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311584
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Anal" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Anal
+http://cf.business-cdn.me:80/3001645199/92e1687367/328084
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Arab Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Arab Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328091
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Asian Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Asian Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328089
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Big Ass Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Big Ass Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328083
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Big Tits Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Big Tits Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328081
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Blonde Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Blonde Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328085
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Blowjob" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Blowjob
+http://cf.business-cdn.me:80/3001645199/92e1687367/328078
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Brunette Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Brunette Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328088
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Ebony Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Ebony Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328090
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Girls Squirt" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Girls Squirt
+http://cf.business-cdn.me:80/3001645199/92e1687367/328082
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Latina Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Latina Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328087
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Mature" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Mature
+http://cf.business-cdn.me:80/3001645199/92e1687367/328092
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Medium Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Medium Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328079
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV MILF" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV MILF
+http://cf.business-cdn.me:80/3001645199/92e1687367/328094
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Skinny Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Skinny Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328080
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Teen Girls " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Teen Girls 
+http://cf.business-cdn.me:80/3001645199/92e1687367/328095
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV White Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV White Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328086
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Young Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",MyCamTV Young Girls
+http://cf.business-cdn.me:80/3001645199/92e1687367/328093
+#EXTINF:-1 tvg-id="" tvg-name="NAUGHTY TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",NAUGHTY TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311640
+#EXTINF:-1 tvg-id="" tvg-name="NET VIDEO GIRLS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",NET VIDEO GIRLS
+http://cf.business-cdn.me:80/3001645199/92e1687367/311594
+#EXTINF:-1 tvg-id="" tvg-name="NET XXX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",NET XXX
+http://cf.business-cdn.me:80/3001645199/92e1687367/311635
+#EXTINF:-1 tvg-id="" tvg-name="NUART TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",NUART TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311668
+#EXTINF:-1 tvg-id="" tvg-name="O LA LA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",O LA LA TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311670
+#EXTINF:-1 tvg-id="" tvg-name="O LA LA TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",O LA LA TV (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311762
+#EXTINF:-1 tvg-id="" tvg-name="PASSIE XXX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PASSIE XXX
+http://cf.business-cdn.me:80/3001645199/92e1687367/311705
+#EXTINF:-1 tvg-id="" tvg-name="PASSION XXX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PASSION XXX
+http://cf.business-cdn.me:80/3001645199/92e1687367/311704
+#EXTINF:-1 tvg-id="" tvg-name="PASSION XXX 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PASSION XXX 2 (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311764
+#EXTINF:-1 tvg-id="" tvg-name="PASSION XXX 3 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PASSION XXX 3 (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311765
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE GOLD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PENTHOUSE GOLD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311649
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE GOLD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PENTHOUSE GOLD HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311718
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE GOLD HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PENTHOUSE GOLD HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311766
+#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK EROTIC
+http://cf.business-cdn.me:80/3001645199/92e1687367/311692
+#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK EROTIC 2
+http://cf.business-cdn.me:80/3001645199/92e1687367/311691
+#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK EROTIC 2 (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311768
+#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 4 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK EROTIC 4 (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311770
+#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 5 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK EROTIC 5 (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311771
+#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 6" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK EROTIC 6
+http://cf.business-cdn.me:80/3001645199/92e1687367/311687
+#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 7" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK EROTIC 7
+http://cf.business-cdn.me:80/3001645199/92e1687367/311686
+#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC 7 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK EROTIC 7 (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311773
+#EXTINF:-1 tvg-id="" tvg-name="PINK O CLUB (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK O CLUB (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311774
+#EXTINF:-1 tvg-id="" tvg-name="PINK O CLUB 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINK O CLUB 2 (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311775
+#EXTINF:-1 tvg-id="" tvg-name="PINKO CLUB" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PINKO CLUB
+http://cf.business-cdn.me:80/3001645199/92e1687367/311663
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PLAYBOY EUROPE
+http://cf.business-cdn.me:80/3001645199/92e1687367/311677
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY EUROPE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PLAYBOY EUROPE HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311678
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY EUROPE HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PLAYBOY EUROPE HD (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311776
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PLAYBOY TV (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311777
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV 2 HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PLAYBOY TV 2 HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311780
+#EXTINF:-1 tvg-id="" tvg-name="PLAYHOUSE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PLAYHOUSE
+http://cf.business-cdn.me:80/3001645199/92e1687367/311634
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Pornstar
+http://cf.business-cdn.me:80/3001645199/92e1687367/328072
+#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",POV
+http://cf.business-cdn.me:80/3001645199/92e1687367/328068
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE TV HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PRIVATE TV HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311782
+#EXTINF:-1 tvg-id="" tvg-name="PURE BABES (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",PURE BABES (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311783
+#EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",REALITY KINGS TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311703
+#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",REDLIGHT HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311785
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Rough
+http://cf.business-cdn.me:80/3001645199/92e1687367/328060
+#EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Russian
+http://cf.business-cdn.me:80/3001645199/92e1687367/328062
+#EXTINF:-1 tvg-id="" tvg-name="SECRET CIRCLE TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SECRET CIRCLE TV (S)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311786
+#EXTINF:-1 tvg-id="" tvg-name="SEX ATION" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SEX ATION
+http://cf.business-cdn.me:80/3001645199/92e1687367/311628
+#EXTINF:-1 tvg-id="" tvg-name="SEX ATION TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SEX ATION TV (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311787
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SEXTREME TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311697
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SEXY HOT
+http://cf.business-cdn.me:80/3001645199/92e1687367/311696
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SEXY HOT TV (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311789
+#EXTINF:-1 tvg-id="" tvg-name="SUPER ONE (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SUPER ONE (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311800
+#EXTINF:-1 tvg-id="" tvg-name="SUPER ONE HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SUPER ONE HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311801
+#EXTINF:-1 tvg-id="" tvg-name="SUPERONE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",SUPERONE 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311610
+#EXTINF:-1 tvg-id="" tvg-name="TABOO TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",TABOO TV (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311802
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Teen
+http://cf.business-cdn.me:80/3001645199/92e1687367/328066
+#EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",Threesome
+http://cf.business-cdn.me:80/3001645199/92e1687367/328063
+#EXTINF:-1 tvg-id="" tvg-name="VINTAGE X 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",VINTAGE X 4K
+http://cf.business-cdn.me:80/3001645199/92e1687367/311615
+#EXTINF:-1 tvg-id="" tvg-name="VIVID RED HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",VIVID RED HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311722
+#EXTINF:-1 tvg-id="" tvg-name="VIVID TOUCH" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",VIVID TOUCH
+http://cf.business-cdn.me:80/3001645199/92e1687367/311709
+#EXTINF:-1 tvg-id="" tvg-name="VIVID TV EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",VIVID TV EUROPE
+http://cf.business-cdn.me:80/3001645199/92e1687367/311711
+#EXTINF:-1 tvg-id="" tvg-name="VIVID TV EUROPE CZ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",VIVID TV EUROPE CZ
+http://cf.business-cdn.me:80/3001645199/92e1687367/311710
+#EXTINF:-1 tvg-id="" tvg-name="X BUNGA BUNGA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",X BUNGA BUNGA
+http://cf.business-cdn.me:80/3001645199/92e1687367/311644
+#EXTINF:-1 tvg-id="" tvg-name="X-DREAM 2 TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",X-DREAM 2 TV (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311804
+#EXTINF:-1 tvg-id="" tvg-name="X-DREAM TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",X-DREAM TV
+http://cf.business-cdn.me:80/3001645199/92e1687367/311660
+#EXTINF:-1 tvg-id="" tvg-name="X-DREAM TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",X-DREAM TV (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311805
+#EXTINF:-1 tvg-id="" tvg-name="X-DREAM TV 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",X-DREAM TV 2
+http://cf.business-cdn.me:80/3001645199/92e1687367/311659
+#EXTINF:-1 tvg-id="" tvg-name="XXL (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",XXL (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311807
+#EXTINF:-1 tvg-id="" tvg-name="XY MAX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",XY MAX HD
+http://cf.business-cdn.me:80/3001645199/92e1687367/311713
+#EXTINF:-1 tvg-id="" tvg-name="XY MAX HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",XY MAX HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311808
+#EXTINF:-1 tvg-id="" tvg-name="XY MIX HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="XXX ADULT",XY MIX HD (H)
+http://cf.business-cdn.me:80/3001645199/92e1687367/311809
+
