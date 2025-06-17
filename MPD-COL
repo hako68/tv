@@ -5200,3 +5200,11 @@ http://iptv543.com/smt.php?id=Astrobein2
 #EXTINF:-1 tvg-name="体育频道|Astro Beinsports 3" tvg-logo="https://live.fanmingming.cn/tv/体育频道|Astro Beinsports 3.png" group-title="smt体育频道",体育频道|Astro Beinsports 3
 http://iptv543.com/smt.php?id=Astrobein3
 
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="CCTV China",cctv5-高码
+http://50.7.234.10:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
+#EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="CCTV China",cctv5p-高码
+http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="CCTV China",cctv15-高码
+http://50.7.234.10:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="CCTV China",cctv16-高码
+http://50.7.234.10:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
